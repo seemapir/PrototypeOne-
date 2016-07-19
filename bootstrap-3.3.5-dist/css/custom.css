@@ -1,0 +1,23 @@
+body {
+	padding-top: 70px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p.overview {
+    text-align: center;
+}
+
+canvas {
+    margin: 1em;
+}
+
+input[type="button"] {
+    margin: 1em;
+}
+
+hc, pc {
+    margin: 1em;
+}
